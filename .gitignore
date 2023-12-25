@@ -1,0 +1,4 @@
+venv
+_pycache_
+e_nfa_2_nfa.py
+__pycache__/ilib.cpython-312.pyc
